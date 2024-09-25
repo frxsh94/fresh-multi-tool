@@ -9,3 +9,6 @@ REQUIREMENTS :
 
 INSTALLATION :
 {1} RUN SETUP.PY
+
+MY SOCIAL MEDIA AND AD :
+https://guns.lol/freshh

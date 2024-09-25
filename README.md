@@ -8,6 +8,7 @@ REQUIREMENTS :
 {4} Visual Studio Code https://code.visualstudio.com/Download 
 
 INSTALLATION :
+
 {1} RUN SETUP.PY
 
 MY SOCIAL MEDIA AND AD :
